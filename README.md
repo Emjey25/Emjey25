@@ -1,4 +1,4 @@
-### Hi there 👋 Mary Joseph
+                                          ### Hi there 👋 Mary Joseph
 
 ![banner oficial](https://github.com/Emjey25/Emjey25/assets/110546904/654729fb-fc5b-40ba-9a81-ad5c5547b8e7)
 
