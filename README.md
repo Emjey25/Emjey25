@@ -1,5 +1,7 @@
 ### Hi there 👋 Mary Joseph
 
+![banner oficial](https://github.com/Emjey25/Emjey25/assets/110546904/654729fb-fc5b-40ba-9a81-ad5c5547b8e7)
+
 <!--
 **Emjey25/Emjey25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
