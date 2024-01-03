@@ -2,17 +2,22 @@
 
 ![banner oficial](https://github.com/Emjey25/Emjey25/assets/110546904/654729fb-fc5b-40ba-9a81-ad5c5547b8e7)
 
-<!--
-**Emjey25/Emjey25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Acerca de mí
+Soy un apasionado desarrollador de software de [Tu Ciudad, Tu País]. Me encanta programar, aprender cosas nuevas y compartir mi conocimiento con los demás.
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades técnicas
+- Lenguajes de programación: Python, Java, C++
+- Desarrollo web: HTML, CSS, JavaScript
+- Bases de datos: MySQL, PostgreSQL
+- Herramientas: Git, GitHub, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Proyectos destacados
+- **Proyecto 1**: Descripción breve del proyecto 1. Enlace al repositorio
+- **Proyecto 2**: Descripción breve del proyecto 2. Enlace al repositorio
+
+## 📫 Contacto
+- LinkedIn: Tu Nombre
+- Correo electrónico: tu-correo@ejemplo.com
+
+## ⚡ Dato curioso
+Me encanta el senderismo y la fotografía.
