@@ -12,7 +12,7 @@
 <!--description #2 herramientas y tecnologias -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><style="display: inline-block"> Soy una apasionada desarrolladora de software 
+    <summary><style="display: none> Soy una apasionada desarrolladora de software 
 - Tengo una actitud proactiva y curiosa para aprender e implementar nuevas tecnologías y soluciones.
 - Domino el desarrollo de código en diferentes lenguajes y plataformas, con especial énfasis en el desarrollo web y de Android.
 - Sé cómo depurar y optimizar el código para mejorar el rendimiento y la calidad.
