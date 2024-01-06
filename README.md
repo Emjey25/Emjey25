@@ -24,7 +24,7 @@ Soy una apasionada desarrolladora de software
 ## 🛠️ Tecnologias y herramientas
 <!--description #2 herramientas y tecnologias -->
 <p align="center">
-Como Junior Full Stack y desarrolladora polivalente, he podido aprender y trabajar con muchas tecnologías emergentes. Mi objetivo es seguir profundizando en mis conocimientos y habilidades de forma constante. Visita mi repositorio para ver ejemplos de mis proyectos innovadores y variados.
+Soy una desarrolladora Junior Full Stack con una gran capacidad de adaptación y aprendizaje. Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones innovadoras. En mi repositorio puedes ver algunos ejemplos de mis proyectos y las habilidades que he adquirido.
 </p>
 
 <div id="user-content-toc">
