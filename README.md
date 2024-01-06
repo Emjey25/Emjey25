@@ -8,7 +8,7 @@
 ![banner oficial](https://github.com/Emjey25/Emjey25/assets/110546904/654729fb-fc5b-40ba-9a81-ad5c5547b8e7)
 
 ## 🚀 Acerca de mí
-<img align="right" width="200" height="200" src="https://private-user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ1MTYzMzQsIm5iZiI6MTcwNDUxNjAzNCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDgxMTgtNmYyOGQ3M2UtMGQ3ZS00YTZjLThkZGYtYmIyNGI2OWE3MWMwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA2VDA0NDAzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI4NjU0Mjk0Mzc5M2M4YjgwYjdkODdjYTdlN2RmYzEyMmVmMGQ3MDYzOTU3NWRlZDUzZjc5NjA1NzBhNzk2NTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.9bSMaZ_8iCD4IuhnnpjavlP_hslsdbo8pnMhYkY9F44">
+<img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 Soy una apasionada desarrolladora de software 
 - Tengo una actitud proactiva y curiosa para aprender e implementar nuevas tecnologías y soluciones.
