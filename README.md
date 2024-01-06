@@ -49,7 +49,7 @@ Visita mis redes sociales
 <img align="left" width="250" height="200" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
 
 
-<p align="left">
+<p align="rigth">
   <a href="https://example.com" title="Visitar Sitio de Ejemplo">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="100">
   </a>
