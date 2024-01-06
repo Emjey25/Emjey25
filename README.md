@@ -50,7 +50,7 @@ Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones inn
 <!--Titulo Frameworks -->
 <p align="rigth">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,django" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,django,spring" />
   </a>
 </p>
 
