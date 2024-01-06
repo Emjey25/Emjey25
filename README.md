@@ -31,7 +31,7 @@ Como desarrolladora versátil y Junior Full Stack, he tenido la fortuna, a pesar
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,docker,express,figma,firebase,emotion,github,html,js,linux,md,materialui,mysql,postgres,react,nextjs,nodejs,postman,py,redux,tailwind,ts,astro,bash,jest,prisma,sequelize&perline=15" />
+    <img src="[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)" />
   </a>
 </p>
 
