@@ -54,7 +54,7 @@ Visita mis redes sociales
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tu_usuario_de_tiktok/)
 
 ```javascript
-console.log("Persistencia es clave en programación. ¡No te rindas!");
+console.log(" La persistencia es la clave en programación. ¡No te rindas!");
 
 
 
