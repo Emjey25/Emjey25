@@ -46,6 +46,7 @@ Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones inn
 
 <a href="https://example.com" title="Visitar Sitio de Ejemplo">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="50">
+  <p>Visita mi perfil en LinkedIn</p>
 </a>
 
 
