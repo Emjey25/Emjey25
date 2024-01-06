@@ -9,7 +9,8 @@
 
 ## 🚀 Acerca de mí
 
-   Soy una apasionada desarrolladora de software 
+<p align="center">
+Soy una apasionada desarrolladora de software 
 - Tengo una actitud proactiva y curiosa para aprender e implementar nuevas tecnologías y soluciones.
 - Domino el desarrollo de código en diferentes lenguajes y plataformas, con especial énfasis en el desarrollo web y de Android.
 - Sé cómo depurar y optimizar el código para mejorar el rendimiento y la calidad.
@@ -17,6 +18,9 @@
 - Me apasiona la ciencia de datos y sus aplicaciones en diversos ámbitos y sectores.
 - Busco una oportunidad de demostrar mis competencias y aportar valor como desarrolladora en un equipo dinámico y creativo.
 - Estoy en constante formación y actualización de mis conocimientos, actualmente estudiando Python y React como complemento a mi dominio de Java. 
+</p>
+
+   
 
 
 ## 🛠️ Tecnologias y herramientas
