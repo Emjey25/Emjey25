@@ -8,6 +8,7 @@
 ![banner oficial](https://github.com/Emjey25/Emjey25/assets/110546904/654729fb-fc5b-40ba-9a81-ad5c5547b8e7)
 
 ## 🚀 Acerca de mí
+<img align="right" width="200" height="161" src="https://github.com/rkasale28/rkasale28/blob/master/icons/avatar.jpg">
 
 Soy una apasionada desarrolladora de software 
 - Tengo una actitud proactiva y curiosa para aprender e implementar nuevas tecnologías y soluciones.
