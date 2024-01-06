@@ -40,35 +40,6 @@ Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones inn
 
 </div>
 
-```html
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>Mi README</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f4f4f4;
-            margin: 20px;
-        }
-        p {
-            color: #333;
-            font-size: 18px;
-        }
-    </style>
-</head>
-<body>
-
-<script>
-    document.write("<p>¡Hola desde JavaScript!</p>");
-</script>
-
-</body>
-</html>
-
-
-
 
 ## 📫 Contacto
 
@@ -82,7 +53,30 @@ Visita mis redes sociales
 [![Correo Electrónico](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:tu_correo@example.com)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tu_usuario_de_tiktok/)
 
+### Ejemplo de "Hola, Mundo" en varios idiomas con JavaScript
 
+Puedes incluir el siguiente código JavaScript en tu README:
+
+```javascript
+const saludos = [
+    "Hola, mundo",
+    "Hello, world",
+    "Bonjour, le monde",
+    "Ciao, mondo",
+    "Hallo, Welt",
+    "Olá, mundo",
+    "Привет, мир",
+    "こんにちは、世界",
+    "안녕하세요, 세계",
+];
+
+function imprimirSaludos() {
+    for (let i = 0; i < saludos.length; i++) {
+        console.log(saludos[i]);
+    }
+}
+
+imprimirSaludos();
 
 
 
