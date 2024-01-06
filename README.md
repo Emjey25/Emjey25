@@ -42,7 +42,7 @@ Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones inn
 
 
 ## 📫 Contacto
-<img align="left" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif">
+<img align="left" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
 - LinkedIn: Maria Jose Causil Silva =>   
 - Correo electrónico: tu-correo@ejemplo.com
 
