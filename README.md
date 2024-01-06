@@ -54,6 +54,21 @@ Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones inn
   </a>
 </p>
 
+<!--Titulo lenguajes -->
+<div id="user-content-toc">
+  <ul align="rigth">
+    <summary><h3 style="display: inline-block">lenguajes </h3></summary>
+  </ul>
+</div>
+
+<!--Titulo lenguajes -->
+<p align="rigth">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,phyton,c#" />
+  </a>
+</p>
+
+
 
 - Lenguajes de programación: Python, Java, C#
 - Desarrollo web: 
