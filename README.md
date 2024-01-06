@@ -50,7 +50,7 @@ Visita mis redes sociales
 
 ![LinkedIn](https://img.icons8.com/ios/452/linkedin.png)](https://www.linkedin.com/in/tu_usuario_de_linkedin/)
 [![Instagram](https://img.icons8.com/ios/452/instagram.png)](https://www.instagram.com/tu_usuario_de_instagram/)
-[![Correo Electrónico](https://img.icons8.com/ios/452/email.png)](mailto:tu_correo@example.com)
+[![Correo Electrónico](https://img.icons8.com/ios/50/email.png)](mailto:tu_correo@example.com)
 [![TikTok](https://img.icons8.com/ios/452/tiktok.png)](https://www.tiktok.com/@tu_usuario_de_tiktok/)
 
 
