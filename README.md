@@ -64,7 +64,7 @@ Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones inn
 <!--Titulo lenguajes -->
 <p align="rigth">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,phyton,c#" />
+    <img src="https://skillicons.dev/icons?i=java,py,c#" />
   </a>
 </p>
 
