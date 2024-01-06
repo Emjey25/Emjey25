@@ -8,7 +8,7 @@
 ![banner oficial](https://github.com/Emjey25/Emjey25/assets/110546904/654729fb-fc5b-40ba-9a81-ad5c5547b8e7)
 
 ## 🚀 Acerca de mí
-<img align="right" width="200" height="161" src="https://github-production-user-asset-6210df.s3.amazonaws.com/92962731/294652349-c300cea6-faac-41c9-ae09-3744b5e5a6d4.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240106T052359Z&X-Amz-Expires=300&X-Amz-Signature=0677fcd1858a79d5d4ce8c5e9e53c5a1b2f9f3ff34856b97beb3adf297d84953&X-Amz-SignedHeaders=host&actor_id=110546904&key_id=0&repo_id=486391702">
+<img align="right" width="200" height="161" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif">
 
 Soy una apasionada desarrolladora de software 
 - Tengo una actitud proactiva y curiosa para aprender e implementar nuevas tecnologías y soluciones.
