@@ -27,36 +27,7 @@ Soy una apasionada desarrolladora de software
 Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones innovadoras. En mi repositorio puedes ver algunos ejemplos de mis proyectos y las habilidades que he adquirido.
 </p>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .square-container {
-            display: flex;
-            flex-wrap: wrap;
-            height: 200px;
-            width: 200px;
-        }
-
-        .square-part {
-            flex: 1;
-            border: 1px solid #000;
-        }
-    </style>
-    <title>Cuadrado con Flexbox</title>
-</head>
-<body>
-    <div class="square-container">
-        <div class="square-part">1</div>
-        <div class="square-part">2</div>
-        <div class="square-part">3</div>
-        <div class="square-part">4</div>
-    </div>
-</body>
-</html>
-
+<!--Titulo front -->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h3 style="display: inline-block">Frontend </h3></summary>
@@ -66,6 +37,20 @@ Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones inn
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,js" />
+  </a>
+</p>
+
+<!--Titulo Frameworks -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">Frameworks </h3></summary>
+  </ul>
+</div>
+
+<!--Titulo Frameworks -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,django" />
   </a>
 </p>
 
