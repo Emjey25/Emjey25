@@ -31,7 +31,7 @@ Como desarrolladora versátil y Junior Full Stack, he tenido la fortuna, a pesar
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm" />
   </a>
 </p>
 
