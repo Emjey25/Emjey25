@@ -18,6 +18,12 @@ Soy una apasionada desarrolladora de software
 - Estoy en constante formación y actualización de mis conocimientos, actualmente estudiando Python y React como complemento a mi dominio de Java.
 
 ## 🛠️ Tecnologias y herramientas
+<!--description #2 herramientas y tecnologias -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><style="display: inline-block">Como desarrolladora versátil y Junior Full Stack, he tenido la fortuna, a pesar de mi corta edad, de familiarizarme con numerosas nuevas tecnologías. Estoy decidida a seguir ampliando mi conocimiento de manera progresiva. Explora mi repositorio para ver cómo aplico esta diversidad de habilidades en la creación de soluciones innovadoras.</summary>
+  </ul>
+</div>
 
 ###   Frontend  
 
