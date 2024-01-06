@@ -92,7 +92,7 @@ Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones inn
 <!--Titulo Database -->
 <p align="rigth">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqllite,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,sql,mongodb" />
   </a>
 </p>
 
