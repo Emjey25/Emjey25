@@ -1,4 +1,9 @@
-###                                        Hi there 👋 Mary Joseph
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hola 👋, Soy Mary Joseph, Desarrolladora Full Stack </h1></summary>
+  </ul>
+</div>
 
 ![banner oficial](https://github.com/Emjey25/Emjey25/assets/110546904/654729fb-fc5b-40ba-9a81-ad5c5547b8e7)
 
