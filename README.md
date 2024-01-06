@@ -17,19 +17,20 @@ Soy una apasionada desarrolladora de software
 - Busco una oportunidad de demostrar mis competencias y aportar valor como desarrolladora en un equipo dinámico y creativo.
 - Estoy en constante formación y actualización de mis conocimientos, actualmente estudiando Python y React como complemento a mi dominio de Java.
 
-## 🛠️ Habilidades técnicas
-- Lenguajes de programación: Python, Java, C++
-- Desarrollo web: HTML, CSS, JavaScript
-- Bases de datos: MySQL, PostgreSQL
+## 🛠️ Tecnologias y herramientas
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+
+- Lenguajes de programación: Python, Java, C#
+- Desarrollo web: 
+- Bases de datos:
 - Herramientas: Git, GitHub, Docker
 
-## 🎯 Proyectos destacados
-- **Proyecto 1**: Descripción breve del proyecto 1. Enlace al repositorio
-- **Proyecto 2**: Descripción breve del proyecto 2. Enlace al repositorio
 
 ## 📫 Contacto
 - LinkedIn: Tu Nombre
 - Correo electrónico: tu-correo@ejemplo.com
 
-## ⚡ Dato curioso
-Me encanta el senderismo y la fotografía.
