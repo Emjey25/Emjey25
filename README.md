@@ -34,7 +34,7 @@ Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones inn
   </ul>
 </div> 
 
-<p align="center">
+<p align="rigth">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,js" />
   </a>
@@ -42,13 +42,13 @@ Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones inn
 
 <!--Titulo Frameworks -->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="rigth">
     <summary><h3 style="display: inline-block">Frameworks </h3></summary>
   </ul>
 </div>
 
 <!--Titulo Frameworks -->
-<p align="center">
+<p align="rigth">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,django" />
   </a>
