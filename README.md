@@ -8,7 +8,7 @@
 ![banner oficial](https://github.com/Emjey25/Emjey25/assets/110546904/654729fb-fc5b-40ba-9a81-ad5c5547b8e7)
 
 ## 🚀 Acerca de mí
-<img align="right" width="200" height="161" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
+<img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif">
 
 Soy una apasionada desarrolladora de software 
 - Tengo una actitud proactiva y curiosa para aprender e implementar nuevas tecnologías y soluciones.
