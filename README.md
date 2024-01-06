@@ -35,7 +35,7 @@ Como Junior Full Stack y desarrolladora polivalente, he podido aprender y trabaj
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass" />
   </a>
 </p>
 
