@@ -40,16 +40,34 @@ Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones inn
 
 </div>
 
-## &#x1f4c8; GitHub Stats
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi README</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 20px;
+        }
+        p {
+            color: #333;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
 
-<a href="https://github.com/Emjey25">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjaljain0&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Emjey25">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjaljain0&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Pranjal's GitHub Stats" />
-</a>
+<script>
+    document.write("<p>¡Hola desde JavaScript!</p>");
+</script>
 
-![visitors](https://github.com/Emjey25)
+</body>
+</html>
+
+
 
 
 ## 📫 Contacto
