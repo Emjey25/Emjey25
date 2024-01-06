@@ -57,26 +57,8 @@ Visita mis redes sociales
 
 Puedes incluir el siguiente código JavaScript en tu README:
 
-```javascript
-const saludos = [
-    "Hola, mundo",
-    "Hello, world",
-    "Bonjour, le monde",
-    "Ciao, mondo",
-    "Hallo, Welt",
-    "Olá, mundo",
-    "Привет, мир",
-    "こんにちは、世界",
-    "안녕하세요, 세계",
-];
+console.log("Persistencia es clave en programación. ¡No te rindas!");
 
-function imprimirSaludos() {
-    for (let i = 0; i < saludos.length; i++) {
-        console.log(saludos[i]);
-    }
-}
-
-imprimirSaludos();
 
 
 
