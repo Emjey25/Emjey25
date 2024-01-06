@@ -46,7 +46,7 @@ Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones inn
 <div align="center">
 Visita mis redes sociales
 </div>
-<img align="rigth" width="250" height="200" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+<img align="right" width="250" height="200" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
 
 
 
