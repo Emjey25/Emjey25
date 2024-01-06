@@ -95,7 +95,19 @@ Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones inn
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
   </a>
 </p>
+<!--Titulo deploy -->
+<div id="user-content-toc">
+  <ul align="rigth">
+    <summary><h3 style="display: inline-block"> despliegue </h3></summary>
+  </ul>
+</div>
 
+<!--Titulo deploy -->
+<p align="rigth">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,netlify,gitlab" />
+  </a>
+</p>
 
  
 
