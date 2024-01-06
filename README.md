@@ -29,10 +29,11 @@ Como desarrolladora versátil y Junior Full Stack, he tenido la fortuna, a pesar
 
 ###   Frontend  
 
--![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
--![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
--![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
--![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,docker,express,figma,firebase,emotion,github,html,js,linux,md,materialui,mysql,postgres,react,nextjs,nodejs,postman,py,redux,tailwind,ts,astro,bash,jest,prisma,sequelize&perline=15" />
+  </a>
+</p>
 
 
 - Lenguajes de programación: Python, Java, C#
