@@ -29,7 +29,7 @@ Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones inn
 
 <!--Titulo front -->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="rigth">
     <summary><h3 style="display: inline-block">Frontend </h3></summary>
   </ul>
 </div> 
