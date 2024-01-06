@@ -48,11 +48,10 @@ Visita mis redes sociales
 </div>
 <img align="left" width="250" height="200" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
 
-![LinkedIn](https://img.icons8.com/ios/50/linkedin.png)](https://www.linkedin.com/in/tu_usuario_de_linkedin/)
-[![Instagram](https://img.icons8.com/ios/50/instagram.png)](https://www.instagram.com/tu_usuario_de_instagram/)
-[![Correo Electrónico](https://img.icons8.com/ios/50/email.png)](mailto:tu_correo@example.com)
-[![TikTok](https://img.icons8.com/ios/50/tiktok.png)](https://www.tiktok.com/@tu_usuario_de_tiktok/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_usuario_de_linkedin/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tu_usuario_de_instagram/)
+[![Correo Electrónico](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:tu_correo@example.com)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tu_usuario_de_tiktok/)
 
 
 
