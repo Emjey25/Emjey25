@@ -68,10 +68,22 @@ Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones inn
   </a>
 </p>
 
+<!--Titulo Design -->
+<div id="user-content-toc">
+  <ul align="rigth">
+    <summary><h3 style="display: inline-block">Diseño </h3></summary>
+  </ul>
+</div>
+
+<!--Titulo Design -->
+<p align="rigth">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,xd" />
+  </a>
+</p>
 
 
-- Lenguajes de programación: Python, Java, C#
-- Desarrollo web: 
+ 
 - Bases de datos:
 - Herramientas: Git, GitHub, Docker
 
