@@ -27,7 +27,11 @@ Soy una apasionada desarrolladora de software
 Como desarrolladora versátil y Junior Full Stack, he tenido la fortuna, a pesar de mi corta edad, de familiarizarme con numerosas nuevas tecnologías. Estoy decidida a seguir ampliando mi conocimiento de manera progresiva. Explora mi repositorio para ver cómo aplico esta diversidad de habilidades en la creación de soluciones innovadoras.
 </p>
 
-###   Frontend  
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">Frontend </h3></summary>
+  </ul>
+</div> 
 
 <p align="center">
   <a href="https://skillicons.dev">
