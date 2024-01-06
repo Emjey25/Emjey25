@@ -53,11 +53,9 @@ Visita mis redes sociales
 [![Correo Electrónico](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:tu_correo@example.com)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tu_usuario_de_tiktok/)
 
-### Ejemplo de "Hola, Mundo" en varios idiomas con JavaScript
-
-Puedes incluir el siguiente código JavaScript en tu README:
-
+```javascript
 console.log("Persistencia es clave en programación. ¡No te rindas!");
+
 
 
 
