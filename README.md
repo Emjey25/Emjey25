@@ -10,15 +10,19 @@
 ## 🚀 Acerca de mí
 <img align="right" width="300" height="150" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47rl29lk1rsqp0p06ndmg4xlfcq6oamcvq8nezytvq&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
-Soy una apasionada desarrolladora de software 
+-👩‍💻 ¡Hola! Soy una apasionada desarrolladora de software con una actitud proactiva y curiosa para aprender e implementar nuevas tecnologías.
 
-- 🌱 Tengo una actitud proactiva y curiosa para aprender e implementar nuevas tecnologías y soluciones.
-- 💻 Domino el desarrollo de código en diferentes lenguajes y plataformas, con especial énfasis en el desarrollo web y aplicaciones con Python.
-- 🛠️ Sé cómo depurar y optimizar el código para mejorar el rendimiento y la calidad.
-- 🗄️ Poseo experiencia práctica en el manejo de bases de datos relacionales y no relacionales.
-- 📊 Me apasiona la ciencia de datos y sus aplicaciones en diversos ámbitos y sectores.
-- 🌟 Busco una oportunidad de demostrar mis competencias y aportar valor como desarrolladora en un equipo dinámico y creativo.
-- 📚 Estoy en constante formación y actualización de mis conocimientos, actualmente estudiando React como complemento a mi dominio de Python y Java.
+-🌱 Tengo experiencia en el desarrollo de código en diferentes lenguajes y plataformas, con especial énfasis en el desarrollo web y aplicaciones con Python.
+
+-🛠️ Sé cómo depurar y optimizar el código para mejorar el rendimiento y la calidad.
+
+-🗄️ Poseo experiencia práctica en el manejo de bases de datos relacionales y no relacionales.
+
+-📊 Me apasiona la ciencia de datos y sus aplicaciones en diversos ámbitos y sectores.
+
+-🌟 Busco una oportunidad de demostrar mis competencias y aportar valor como desarrolladora en un equipo dinámico y creativo.
+
+-📚 Estoy en constante formación y actualización de mis conocimientos, actualmente estudiando React como complemento a mi dominio de Python y Java. También estoy estudiando ingeniería de software y datos en la Universidad Digital de Antioquia.
   
 ---
 
@@ -47,6 +51,7 @@ Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones inn
 <h3>📊 Visita mis redes sociales</h3>
   
 <img align="left" width="250" height="200" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majocausildev25/#:~:text=www.linkedin.com/in/majocausildev25)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mary_josephdev?utm_source=qr&igsh=NXl6d25oamNrY2o3)
