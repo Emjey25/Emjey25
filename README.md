@@ -23,11 +23,11 @@ Soy una apasionada desarrolladora de software
 ---
 
 ## 🛠️ Tecnologías y herramientas
-<p align="center">
+<p align="left">
 Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones innovadoras. En mi repositorio puedes ver algunos ejemplos de mis proyectos y las habilidades que he adquirido.
 </p>
 
-<div align="center">
+<div align="left">
 
 | Frontend | Frameworks | Lenguajes |
 | ---------|------------|-----------|
@@ -67,9 +67,10 @@ print("Y así, el ciclo continúa... Porque programar no es solo un trabajo, ¡e
 ---
 
 ## 💻 Estadísticas del perfil de GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emjey25&show_icons=true&theme=dracula) 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Emjey25&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-<br><img align="left" width="250" height="250" src="https://github.com/Emjey25/Emjey25/assets/110546904/2d704442-76b5-4167-b5be-c604f3479a2c"><br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Emjey25&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Emjey25&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
 
 
 
