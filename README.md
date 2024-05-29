@@ -5,7 +5,9 @@
   </ul>
 </div>
 
-![banner oficial](https://github.com/Emjey25/Emjey25/assets/110546904/654729fb-fc5b-40ba-9a81-ad5c5547b8e7)
+![banner oficial](https://github.com/Emjey25/Emjey25/assets/110546904/9b84532f-fea7-40c2-9d6d-2bead674ea54)
+
+
 
 ## 🚀 Acerca de mí
 <img align="right" width="250" height="200" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
