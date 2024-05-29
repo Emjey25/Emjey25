@@ -18,7 +18,7 @@
 
 -🗄️ Poseo experiencia práctica en el manejo de bases de datos relacionales y no relacionales.
 
--📊 Me apasiona la ciencia de datos y sus aplicaciones en diversos ámbitos y sectores.
+-📊 Me apasiona la programacion web con python y tambien la inteligencia artificial en diversos ámbitos y sectores.
 
 -🌟 Busco una oportunidad de demostrar mis competencias y aportar valor como desarrolladora en un equipo dinámico y creativo.
 
