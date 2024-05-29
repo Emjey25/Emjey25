@@ -69,6 +69,9 @@ print("Y así, el ciclo continúa... Porque programar no es solo un trabajo, ¡e
 ## 💻 Estadísticas del perfil de GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emjey25&show_icons=true&theme=dracula) 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Emjey25&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<br><img align="left" width="250" height="250" src="https://github.com/Emjey25/Emjey25/assets/110546904/2d704442-76b5-4167-b5be-c604f3479a2c"><br>
+
+
 
 
 
