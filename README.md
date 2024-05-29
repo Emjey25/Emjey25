@@ -10,7 +10,8 @@
 
 
 ## 🚀 Acerca de mí
-Soy una apasionada desarrolladora de software 
+Soy una apasionada desarrolladora de software <img align="rigth" width="300" height="150" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47rl29lk1rsqp0p06ndmg4xlfcq6oamcvq8nezytvq&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+
 - 🌱 Tengo una actitud proactiva y curiosa para aprender e implementar nuevas tecnologías y soluciones.
 - 💻 Domino el desarrollo de código en diferentes lenguajes y plataformas, con especial énfasis en el desarrollo web y aplicaciones con Python.
 - 🛠️ Sé cómo depurar y optimizar el código para mejorar el rendimiento y la calidad.
