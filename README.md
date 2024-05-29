@@ -10,7 +10,9 @@
 
 
 ## 🚀 Acerca de mí
-Soy una apasionada desarrolladora de software <img align="rigth" width="300" height="150" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47rl29lk1rsqp0p06ndmg4xlfcq6oamcvq8nezytvq&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="right" width="300" height="150" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47rl29lk1rsqp0p06ndmg4xlfcq6oamcvq8nezytvq&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+
+Soy una apasionada desarrolladora de software 
 
 - 🌱 Tengo una actitud proactiva y curiosa para aprender e implementar nuevas tecnologías y soluciones.
 - 💻 Domino el desarrollo de código en diferentes lenguajes y plataformas, con especial énfasis en el desarrollo web y aplicaciones con Python.
@@ -19,7 +21,7 @@ Soy una apasionada desarrolladora de software <img align="rigth" width="300" hei
 - 📊 Me apasiona la ciencia de datos y sus aplicaciones en diversos ámbitos y sectores.
 - 🌟 Busco una oportunidad de demostrar mis competencias y aportar valor como desarrolladora en un equipo dinámico y creativo.
 - 📚 Estoy en constante formación y actualización de mis conocimientos, actualmente estudiando React como complemento a mi dominio de Python y Java.
-
+  
 ---
 
    
@@ -44,10 +46,9 @@ Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones inn
 </div>
 
 
-## 📫 Contacto
-
+## 📫 Contacto   
 <div align="center">
-Visita mis redes sociales
+<h3>📊 Visita mis redes sociales</h3> <img align="left"  width="40" height="40" src="https://techstack-generator.vercel.app/python-icon.svg">
 </div>
 <img align="left" width="250" height="200" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
 
@@ -56,11 +57,5 @@ Visita mis redes sociales
 [![Correo Electrónico](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](majocausil16@gmail.com)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@mariacausil61?_t=8insh3dkTLR&_r=1)
 
-```javascript
-console.log(" La persistencia es la clave en programación. ¡No te rindas!");
-
-
-
-
-
-
+```python
+print(" La persistencia es la clave en programación. ¡No te rindas!"); 
