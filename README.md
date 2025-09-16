@@ -35,7 +35,7 @@ Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones inn
 
 | Frontend | Frameworks | Lenguajes |
 | ---------|------------|-----------|
-| [![Frontend](https://skillicons.dev/icons?i=html,css,sass,js)](https://skillicons.dev) | [![Frameworks](https://skillicons.dev/icons?i=react,bootstrap,django,spring,tailwind)](https://skillicons.dev) | [![Lenguajes](https://skillicons.dev/icons?i=java,py,cs)](https://skillicons.dev) |
+| [![Frontend](https://skillicons.dev/icons?i=html,css,sass,js)](https://skillicons.dev) | [![Frameworks](https://skillicons.dev/icons?i=angular,bootstrap,django,spring,tailwind)](https://skillicons.dev) | [![Lenguajes](https://skillicons.dev/icons?i=java,py,cs)](https://skillicons.dev) |
 
 | Diseño | Bases de Datos | Despliegue | Editores |
 | -------|-----------------|------------|----------|
