@@ -1,7 +1,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, Soy Mary Joseph, Desarrolladora Full Stack Junior </h1></summary>
+    <summary><h1 style="display: inline-block"> Hola 👋, Soy Mary Joseph, Ingeniera de Software y Datos </h1></summary>
   </ul>
 </div>
 
@@ -10,19 +10,15 @@
 ## 🚀 Acerca de mí
 <img align="right" width="300" height="150" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47rl29lk1rsqp0p06ndmg4xlfcq6oamcvq8nezytvq&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
--👩‍💻 ¡Hola! Soy una apasionada desarrolladora de software con una actitud proactiva y curiosa para aprender e implementar nuevas tecnologías.
+## 💻 Ingeniera de Software y Datos | Java Backend & AI Integration 🚀
 
--🌱 Tengo experiencia en el desarrollo de código en diferentes lenguajes y plataformas, con especial énfasis en el desarrollo web y aplicaciones con Python.
+Soy ingeniera de software y datos en formación, con una sólida base en Java y un fuerte enfoque en el desarrollo backend. Actualmente me encuentro puliendo mis habilidades técnicas y especializándome en arquitectura de software, explorando a fondo los patrones agénticos para fusionar la solidez de Java con el potencial de la Inteligencia Artificial y la toma de decisiones autónomas. 🧠⚡
 
--🛠️ Sé cómo depurar y optimizar el código para mejorar el rendimiento y la calidad.
+Mi formación académica en la IU Digital de Antioquia me permite conectar dos mundos clave: el desarrollo de software y la ingeniería de datos. Esto me da una perspectiva integral sobre cómo diseñar sistemas escalables, analizar grandes volúmenes de información y dotar a las aplicaciones de autonomía impulsada por IA. 📊🌐
 
--🗄️ Poseo experiencia práctica en el manejo de bases de datos relacionales y no relacionales.
+Además, sigo fortaleciendo mi perfil profesional perfeccionando mi nivel de inglés en la UNAD, preparándome para aportar valor en la industria tecnológica global. 🌍📚
 
--📊 Me apasiona la programacion web con python y tambien la inteligencia artificial en diversos ámbitos y sectores.
-
--🌟 Busco una oportunidad de demostrar mis competencias y aportar valor como desarrolladora en un equipo dinámico y creativo.
-
--📚 Estoy en constante formación y actualización de mis conocimientos, actualmente estudiando React como complemento a mi dominio de Python y Java. También estoy estudiando ingeniería de software y datos en la Universidad Digital de Antioquia.
+Me apasiona crear arquitecturas limpias, aplicar buenas prácticas y construir sistemas inteligentes orientados a resolver retos reales. Disfruto aprender constantemente y conectar con profesionales que compartan esta misma pasión. ✨🤝
   
 ---
 
