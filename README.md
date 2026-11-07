@@ -3,23 +3,17 @@
 [![banner oficial](https://github.com/Emjey25/Emjey25/assets/110546904/9b84532f-fea7-40c2-9d6d-2bead674ea54)](https://github.com/Emjey25/Emjey25)
 
 ---
-<table>
-  <tr>
-    <td align="center" width="35%">
-      <img src="https://github.com/user-attachments/assets/82dde79a-c752-4682-9cb0-60f7da58bc1f" width="220" alt="Mi avatar o ilustración"/>
-    </td>
-    <td align="left" width="65%">
-      Soy ingeniera de software y datos en formación, con una sólida base en Java y un fuerte enfoque en el desarrollo backend. Actualmente me encuentro puliendo mis habilidades técnicas y especializándome en arquitectura de software, explorando a fondo los patrones agénticos para fusionar la solidez de Java con el potencial de la Inteligencia Artificial y la toma de decisiones autónomas. 🧠⚡
-      <br><br>
-      Mi formación académica en la IU Digital de Antioquia me permite conectar dos mundos clave: el desarrollo de software y la ingeniería de datos. Esto me da una perspectiva integral sobre cómo diseñar sistemas escalables, analizar grandes volúmenes de información y dotar a las aplicaciones de autonomía impulsada por IA. 📊🌐
-      <br><br>
-      Además, sigo fortaleciendo mi perfil profesional perfeccionando mi nivel de inglés en la UNAD, preparándome para aportar valor en la industria tecnológica global. 🌍📚
-      <br><br>
-      Me apasiona crear arquitecturas limpias, aplicar buenas prácticas y construir sistemas inteligentes orientados a resolver retos reales. Disfruto aprender constantemente y conectar con profesionales que compartan esta misma pasión. ✨🤝
-    </td>
-  </tr>
-</table>
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200" align="left" hspace="20" alt="Mi avatar o ilustración"/>
 
+Soy ingeniera de software y datos en formación, con una sólida base en Java y un fuerte enfoque en el desarrollo backend. Actualmente me encuentro puliendo mis habilidades técnicas y especializándome en arquitectura de software, explorando a fondo los patrones agénticos para fusionar la solidez de Java con el potencial de la Inteligencia Artificial y la toma de decisiones autónomas. 🧠⚡
+
+Mi formación académica en la IU Digital de Antioquia me permite conectar dos mundos clave: el desarrollo de software y la ingeniería de datos. Esto me da una perspectiva integral sobre cómo diseñar sistemas escalables, analizar grandes volúmenes de información y dotar a las aplicaciones de autonomía impulsada por IA. 📊🌐
+
+Además, sigo fortaleciendo mi perfil profesional perfeccionando mi nivel de inglés en la UNAD, preparándome para aportar valor en la industria tecnológica global. 🌍📚
+
+Me apasiona crear arquitecturas limpias, aplicar buenas prácticas y construir sistemas inteligentes orientados a resolver retos reales. Disfruto aprender constantemente y conectar con profesionales que compartan esta misma pasión. ✨🤝
+
+<br clear="left"/>
 
 
 ## ✨ Quick Facts
