@@ -46,7 +46,7 @@ Me apasiona conocer y utilizar diferentes tecnologías para crear soluciones inn
 ## 📫 Contacto   
 <div align="left">
 <h3>📊 Visita mis redes sociales</h3>
-<img align="left" width="250" height="200" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+<img align="left" width="250" height="200" src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majocausildev25/#:~:text=www.linkedin.com/in/majocausildev25)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mary_josephdev?utm_source=qr&igsh=NXl6d25oamNrY2o3)
